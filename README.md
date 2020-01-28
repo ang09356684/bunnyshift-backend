@@ -5,6 +5,8 @@ This README would normally document whatever steps are necessary to get your app
 ## Bunny Shift Backend
 use node.js with MySQL
 
-## ER model
+## how to ues API
+https://hackmd.io/ehRbDHcCTXqvynCWQrrzLw
 
+## ER model
 ![](ER圖.png)
