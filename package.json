@@ -1,0 +1,20 @@
+{
+  "name": "bunnyshift",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "ssh": "ssh ang09356684@35.226.116.19 -p 22 -i ~/.ssh/id_rsa"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
