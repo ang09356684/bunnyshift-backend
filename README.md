@@ -10,6 +10,8 @@ https://hackmd.io/ehRbDHcCTXqvynCWQrrzLw
 
 ## demo
 ![](/demo_pictures/圖片1.png)
-
+![](/demo_pictures/設定.png)
+![](/demo_pictures/排入日程.png)
+![](/demo_pictures/請假.png)
 ## ER model
 ![](ER圖.png)
