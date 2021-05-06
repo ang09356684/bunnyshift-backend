@@ -8,5 +8,8 @@ use node.js with MySQL
 ## how to ues API
 https://hackmd.io/ehRbDHcCTXqvynCWQrrzLw
 
+## demo
+![](/demo_pictures/圖片1.png)
+
 ## ER model
 ![](ER圖.png)
